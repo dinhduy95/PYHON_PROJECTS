@@ -1,7 +1,7 @@
 Brief introduction: This is an exercise from the book "Data Structures and Algorithms Using Python", author Rance D. Necaise. First, we extract data from a text file. Five fields of the record: idNum, firstName, lastName, classCode and gpa. Each field is stored on a seperate line.
 
-10015
-John
+10015 \n
+John \n
 Smith
 2
 3.01
